@@ -4,8 +4,8 @@
 - 🏢 I'm currently working as a onsite/remote freelancer with UAE top-notch agencies and SME's
 - ⚙️ I use daily: .ps, .ai, .id, .gwd, .ae,
 - 💬 Ping me about visual design related problems
-- 📝 Checkout my work on https://www.behance.net/azizdesigner
-
+- 📝 Checkout my work on https://www.behance.net/azizdesigner 
+- 📫 Connect with me on LinkedIn https://www.linkedin.com/in/freelance-digital-designer/
 <!---
 azizdesigner/azizdesigner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
